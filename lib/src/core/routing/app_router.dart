@@ -2,7 +2,7 @@ import 'package:auto_route/auto_route.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:task_manager_app/src/core/routing/wrappers/main_wrapper.dart';
 import 'package:task_manager_app/src/features/home/home_screen.dart';
-import 'package:task_manager_app/src/features/manangment/managment_screen.dart';
+import 'package:task_manager_app/src/features/managment/managment_screen.dart';
 import 'package:task_manager_app/src/features/navigation_screen.dart';
 import 'package:task_manager_app/src/features/start/start_screen.dart';
 
