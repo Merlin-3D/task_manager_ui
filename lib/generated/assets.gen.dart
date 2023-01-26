@@ -25,14 +25,11 @@ class $AssetsImagesGen {
   /// File path: assets/images/Image-99.png
   AssetGenImage get image99 => const AssetGenImage('assets/images/Image-99.png');
 
-  /// File path: assets/images/group-9.png
-  AssetGenImage get group9 => const AssetGenImage('assets/images/group-9.png');
-
   /// File path: assets/images/group1.svg
   String get group1 => 'assets/images/group1.svg';
 
   /// List of all assets
-  List<dynamic> get values => [image99, group9, group1];
+  List<dynamic> get values => [image99, group1];
 }
 
 class Assets {
